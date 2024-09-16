@@ -1,0 +1,24 @@
+{
+  "name": "revassist-api",
+  "version": "1.0.0",
+  "description": "Library to call RevAssist API",
+  "main": "index.js",
+  "scripts": {
+    "test-query": "node testQuery.js",
+    "test-feedback": "node testFeedback.js"
+  },
+  "author": "revassist.ai",
+  "type": "module",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matrix-marketing/revassist-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/matrix-marketing/revassist-api/issues"
+  },
+  "homepage": "https://github.com/matrix-marketing/revassist-api#readme",
+  "dependencies": {
+    "webdigital-api": "^1.0.0"
+  }
+}

@@ -1,0 +1,16 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  webdigital-api:
+    specifier: ^1.0.0
+    version: 1.0.0
+
+packages:
+
+  /webdigital-api@1.0.0:
+    resolution: {integrity: sha512-pNLnTjyFp/8zGUDQcMeC168ppxL9QwFYCkiM9PhSPivZUKgOXPnLI/WobyWXCJjcVYgPFAAHFMgc1PnmeHLJPA==}
+    dev: false
